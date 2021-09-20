@@ -1,4 +1,6 @@
-Sorry guys ang gulo ng page ko SKDAJADASHAJ. TBH PANG DUMP KO LANG TO NG MGA DATASETS HHUUHUHUHUH
+Hi! I have collected all the projects I have done in my Data Science classes. Still unsure if Data Science is a worthwhile path. But let's see. 👀 
+
+Contact me through my email: maria_regina_sagrit@dlsu.edu.ph
 
 <!---
 faderblade/faderblade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
