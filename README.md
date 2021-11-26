@@ -1,4 +1,4 @@
-Hi! I have collected all the projects I have done in my Data Science classes. Still unsure if Data Science is a worthwhile path. But let's see. 👀 
+Hi! I have collected all the projects I have done in my Data Science classes, internships, and personal projects here. 
 
 Contact me through my email: maria_regina_sagrit@dlsu.edu.ph
 
